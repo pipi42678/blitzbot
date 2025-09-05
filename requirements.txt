@@ -1,0 +1,3 @@
+wxauto==39.1.15
+openai
+rapidocr-onnxruntime

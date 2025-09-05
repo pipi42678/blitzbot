@@ -1,0 +1,1 @@
+pyinstaller -F.\.venv\wxauto版微信机器人v1.2.5.py --add-data ".venv/Lib/site-packages/rapidocr_onnxruntime/config.yaml;rapidocr_onnxruntime" --add-data ".venv/Lib/site-packages/rapidocr_onnxruntime/models;rapidocr_onnxruntime/models"
